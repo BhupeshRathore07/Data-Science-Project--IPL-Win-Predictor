@@ -45,4 +45,6 @@ Steps followed here are:
 3. converting results probabilities into percentage using the inputted data
 
 ## Conclusion
-Link for the webiste: https://bhupesh-ipl-win-predictor.herokuapp.com/
+Here concluding this project, I had gone through lot data processing techniques which are equally important as modelling.
+
+Here is the link for the website: https://bhupesh-ipl-win-predictor.herokuapp.com/
