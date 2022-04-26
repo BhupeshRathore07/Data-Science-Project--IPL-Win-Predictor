@@ -57,7 +57,7 @@ Steps followed here are:
 
 Here is the final output of website published:
 
-![final output](https://miro.medium.com/max/1400/1*V7kJkGW94jOHGydhIvw30A.jpeg)
+![final output]()
 
 ## Conclusion
 Here concluding this project, I had gone through lot data processing techniques which are equally important as modelling.
