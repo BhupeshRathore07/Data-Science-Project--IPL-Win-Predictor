@@ -62,4 +62,4 @@ Here is the final output of website published:
 ## Conclusion
 Here concluding this project, I had gone through lot data processing techniques which are equally important as modelling.
 
-Here is the link for the website: https://bhupesh-ipl-win-predictor.herokuapp.com/
+The link for the website has expired after 1 year.
